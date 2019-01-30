@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/zguo/OpenFOAM/OpenFOAM-5.0/src",
+                "/Users/zguo/OpenFOAM/OpenFOAM-5.0/src/finiteVolume/lnInclude",
+                "/Users/zguo/OpenFOAM/OpenFOAM-5.0/src/sampling/lnInclude",
+                "/Users/zguo/OpenFOAM/OpenFOAM-5.0/src/meshTools/lnInclude",
+                "/Users/zguo/OpenFOAM/OpenFOAM-5.0/src/transportModels/compressible/lnInclude",
+                "/Users/zguo/OpenFOAM/OpenFOAM-5.0/src/thermophysicalModels/basic/lnInclude",
+                "/Users/zguo/OpenFOAM/OpenFOAM-5.0/src/thermophysicalModels/radiation/lnInclude",
+                "/Users/zguo/OpenFOAM/OpenFOAM-5.0/src/TurbulenceModels/turbulenceModels/lnInclude",
+                "/Users/zguo/OpenFOAM/OpenFOAM-5.0/src/TurbulenceModels/compressible/lnInclude",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
